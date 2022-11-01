@@ -1,5 +1,5 @@
-# J3-Analyzer 
-<!-- Analyseur syntaxique  et lexical d'un programme P du langage L décrit par la grammaire G   -->
+# Analyzer Grammar
+
 Syntax and lexical analyzer of a program P of the language L described by the grammar G.<br>
 According to a given grammar, we must analyze the entered program (TestFile) to detect any errors and display the errors that occurred during this analysis.<br>
 We first perform the lexical analysis, which consists consists of breaking down the syntaxes into a series of tokens, removing any spaces or comments in the source code. 
